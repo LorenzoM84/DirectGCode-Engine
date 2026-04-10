@@ -1,0 +1,8 @@
+All rights reserved.
+
+This repository and its contents are provided for presentation purposes only.
+
+No part of this project may be copied, redistributed, modified or used for commercial or non-commercial purposes without explicit written permission from the author.
+
+Author: Lorenzo Marsico
+Project: DirectGCode Engine
